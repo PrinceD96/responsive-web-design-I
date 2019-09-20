@@ -152,7 +152,7 @@ h5 {
 
 /* Your code starts here! */
 .container {
-  width: 80%;
+  width: 100vh;
   margin: 0 auto;
   /* border: 1px solid red; */
   /* padding: 1%; */
@@ -228,7 +228,7 @@ header nav a:active {
   height: 25px;
   border: 1px solid black;
   color: black;
-  padding: 0 5%;
+  padding: 0 5px;
 }
 
 .main-content-right {
@@ -303,7 +303,7 @@ header nav a:active {
 
 @media (max-width: 800px) {
   .container {
-    width: 80%;
+    width: 80vh;
   }
 
   header .logo1 {
